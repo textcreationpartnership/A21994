@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France and Ireland ... to all and singular archbishops, bishops, archdeacons, deanes ... greeting wee haue vnderstood by a license granted by our brother the French king, to Master Iohn Triphon ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21994</idno>
+            <idno type="STC">STC 8340</idno>
+            <idno type="STC">ESTC S3814</idno>
+            <idno type="EEBO-CITATION">33151027</idno>
+            <idno type="OCLC">ocm 33151027</idno>
+            <idno type="VID">28873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28873)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France and Ireland ... to all and singular archbishops, bishops, archdeacons, deanes ... greeting wee haue vnderstood by a license granted by our brother the French king, to Master Iohn Triphon ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1603]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC (2nd ed.).</note>
+                  <note>Title proper and other title information from first 9 lines of text.</note>
+                  <note>"Witnesse our selfe at Westminster the sixe and twentieth day of December, in the first yeere of our Raigne of England, France and Ireland, and of Scotland the seuen and thirtieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Triphon, John.</term>
+               <term>Religious refugees --  Greece --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28873:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES by the grace of God King of England, Scotland,</hi> France and Ireland, defender of the Faith, &amp;c.</signed>
+               <salute>To all and ſingular Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops, Archdeacons, Deanes and their Officials, Parſons, Vicars, Curats, and to all Spiritual Parſons, And alſo to all Iuſtices of Peace, Ma<g ref="char:EOLhyphen"/>iors, Shiriffes, Bailiffes, Conſtables, Church wardens, and Headboroughes, And to all other our Officers, Miniſters and Subjects whatſoeuer, aſwell within Liberties as without, to whom theſe preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>Wee haue vnderſtood by a Licenſe granted by our brother the French King, to Maſter <hi>Iohn Triphon</hi> the bearer hereof being a Grecian borne, of a Noble houſe, That for Religion hee, his Mother and Siſters, haue bene ba<g ref="char:EOLhyphen"/>niſhed and driuen out of their Countrey by the Great Turke, and that his Mother and Siſters are fled to the Iſland of <hi>Creete,</hi> Whereby both himſelfe, and they, are fallen into great want and miſery, remayning thus exiled from their Countrey, and are likely to fall into greater diſtreſſe, except they be relieued by the charitable Deuotions of well diſpoſed Chriſtians towards their maintenance, and the payment of a great Ranſome layed vpon them. Nowe for that there is nothing more acceptable to Amighty God then the charitable comforting of diſtreſſed Chriſtians, fallen into ſuch calamities, eſpecially for their profeſſion of Chriſtianitie. Wee tendering the poore and lamen<g ref="char:EOLhyphen"/>table Eſtate of the ſaid <hi>Iohn Triphon,</hi> his Mother and Siſters, of our eſpeciall Grace and Princely compaſ<g ref="char:EOLhyphen"/>ſion, haue giuen and granted, And by theſe our Letters Patents doe giue and grant vnto the ſaid Maſter <hi>Iohn Triphon</hi> or his Deputie the bearer hereof, full power, licenſe and authoritic to aſke, gather, receiue and take the Almes, and charitable deuotion of all our louing Subjects, inhabiting within our Counties of Middleſex, with our Cities of London and Weſtminſter, with the Suburbs thereof, Kent, Eſſex, Hart<g ref="char:EOLhyphen"/>ford, Surrey, Suſſex, Buckingham, Barke, Cambridge, with the Vniuerſitie there, Suffolke and Norf<g ref="char:EOLhyphen"/>folke, with the City of Norwich, and in all Cities, Townes corporate, priviledged places, Pariſhes, Vtl<g ref="char:EOLhyphen"/>lages, and all other places whatſoeuer, within any of our ſaid Counties and Cities, and not elſewhere, for, and towards the maintenance of himſelfe, his Mother and Siſters, and the payment of their ſaid Ran<g ref="char:EOLhyphen"/>ſome. Wherefore we will and command you, and euery of you, that at ſuch time and times as the ſaid Maſter <hi>Iohn Triphon</hi> or his Deputie the bearer hereof, ſhall come and repaire to your Churches or other places to aſke, gather, receiue and take the gratuities and charitable Deuotion of our ſayd Subiects, quietly to permit and ſuffer him and his Deputie ſo to doe, without any maner your let or contradiction: And you the ſaid Parſons, Vicars and Curats, for the better ſturring vp of a charitable deuotion, delive<g ref="char:EOLhyphen"/>rately to publiſh and declare the Tenor of theſe our Letters Patents vnto our ſaid Subiects, exhorting and charitably perſwading them to extend their liberall Contributions in ſo good and charitable a deed. The late Statute made in the fiue and thirtieth yeere of the Raigne of our late deare Siſter Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> for the puniſhment of Vagabonds and Rogues, or any other Statute, Law, Ordinance, or prouiſion heretofore made to the contrary in any Rogues, or any wiſe notwithſtanding. In witneſſe whereof wee haue cauſed theſe our Letters to be made Patents for the ſpace of one whole yeere next after the date hereof to endure.</p>
+            <closer>
+               <dateline>Witneſſe our ſelfe at Weſtminſter <date>the fixe and twentieth day of December, in the firſt yeere of our Raigne of England, France and Ireland, and of Scotland the ſeuen and thirtieth.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
